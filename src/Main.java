@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// also available on
 public class Main {
     public static int Score = 0;
 
